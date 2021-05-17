@@ -6,6 +6,7 @@ Authored by: Section 371 of Code in Place
 Contributors:
 * Jay
 * Maciej
+* Tarek
 """
 
 def main():
